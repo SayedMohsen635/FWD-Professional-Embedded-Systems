@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "card.h": "c",
+        "stdio.h": "c",
+        "server.h": "c"
+    }
+}
